@@ -16,6 +16,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.0"
+    "react-fit": "^1.5.1",
+    "react-router-dom": "^6.14.0",
+    "react-textfit": "^1.1.1"
   }
 }
